@@ -5,5 +5,5 @@
 
 ![image](https://user-images.githubusercontent.com/122866331/215982586-a236f63a-369b-4f51-9c44-4a8fad8dde75.png)
 
-
-[COVID - Dashboard](https://public.tableau.com/views/COVID-Dashboard_16752359695890/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+### OG
+[COVID - Dashboard (Tableau)](https://public.tableau.com/views/COVID-Dashboard_16752359695890/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
