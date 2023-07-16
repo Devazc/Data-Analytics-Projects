@@ -1,4 +1,4 @@
-# Netflix - Data Visualization
+# NETFLIX - Data Visualization
 
 **This Netflix Data Visualization made with [TABLEAU](https://public.tableau.com/views/Netflix-Dashboard_16765592569360/Netflix-Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) is a comprehensive and intuitive way to explore the streaming service's catalogue of movies and TV shows. The dashboard displays a breakdown of the total number of movies and TV shows released by year, country, genre, and year released. It also provides a detailed analysis of ratings and genre distribution, as well as a detailed description of a selected movie or TV show. This dashboard is a great tool for understanding the scope and breadth of Netflix’s expansive library.**
 
